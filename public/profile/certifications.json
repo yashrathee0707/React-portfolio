@@ -1,0 +1,18 @@
+{
+    "certifications": [
+        {
+            "title": "Certified System Administrator - Servicenow",
+            "image": "https://yt3.googleusercontent.com/Ja0QUDM6ig6c_4nkF1AXgpjWIDehZwog04ZReGg355fuotuBa8L9qSOuSPvkUMPrKP3nMR0Ke2A=s900-c-k-c0x00ffffff-no-rj",
+            "bodyText": "Servicenow", 
+        
+            "credentialUrl": "https://nowlearning.servicenow.com/lxp/en/pages/profile?id=profile&spa=1&parent=1eb3e5d31b08705002ed2f89bd4bcb75&child=a02b266c1ba0fc1002ed2f89bd4bcb4f"
+        },
+        {
+            "title": "Certified Application Developer - Servicenow",
+            "image": "https://yt3.googleusercontent.com/Ja0QUDM6ig6c_4nkF1AXgpjWIDehZwog04ZReGg355fuotuBa8L9qSOuSPvkUMPrKP3nMR0Ke2A=s900-c-k-c0x00ffffff-no-rj",
+            "bodyText": "Servicenow",
+        
+            "credentialUrl": "https://nowlearning.servicenow.com/lxp/en/pages/profile?id=profile&spa=1&parent=1eb3e5d31b08705002ed2f89bd4bcb75&child=a02b266c1ba0fc1002ed2f89bd4bcb4f"
+        }
+    ] 
+}

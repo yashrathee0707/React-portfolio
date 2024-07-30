@@ -1,0 +1,14 @@
+{
+    "experiences": [
+      {
+        "cardtitle": "Research Internship",
+        "cardsubtitle": "IIT Roorkee, Uttarakhand",
+        "subtitle": "Deep Learning",
+        "workDescription": [ 
+          "During my IIT Roorkee Summer Research Internship under Dr. Kamal Jain, I contributed to developing an advanced Annotation Tool for Semantic Segmentation using META's Segment Anything model. Collaborating with a talented team, I actively participated in all project stages, deepening my understanding of computer vision and machine learning. This hands-on experience allowed me to make meaningful contributions to the field, drive innovation, and hone my technical skills."
+        ],
+        "dateText": "June 2023 - July 2023",
+        "Imgsrc":"https://upload.wikimedia.org/wikipedia/commons/e/e7/T-Mobile_logo_2022.svg"
+      }
+    ]
+  }

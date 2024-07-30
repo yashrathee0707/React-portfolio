@@ -1,0 +1,19 @@
+
+{
+
+    "profilePic": {
+      "source": "images/HomePaageImg.png",
+      "width": 200,
+      "height": 200,
+      "border-radius": 50,
+      "object-fit": "cover",
+      "margin-bottom": 20
+    },
+    "name": "Yash",
+    "roles": [
+      "Software Developer"
+    ],
+    "paragraph": [
+      "Passionate about web development, data analytics, and DSA, I am a 4th-year B.Tech student with hands-on experience in building MERN stack projects. I excel at data analysis and have a knack for integrating AI features into web applications. With a solid understanding of data structures and algorithms, and a track record of successfully deploying web apps, I'm eager to dive into an internship that offers dynamic challenges and a supportive environment to further hone my skills and grow as a developer."
+    ]
+  }

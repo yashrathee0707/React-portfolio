@@ -1,0 +1,16 @@
+{
+  "education": [
+    {
+      "dateText": "Sep 2021 - Present",
+      "cardtitle": "Btech in Computer Science",
+      "cardsubtitle": "Bennett University, Greater Noida",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    },
+    {
+      "dateText": "March 2020 - March 2021",
+      "cardtitle": "A Levels",
+      "cardsubtitle": "Kings' College India",
+      "Imgsrc": "https://img.icons8.com/ios-filled/100/000000/education.png"
+    }
+  ]
+}

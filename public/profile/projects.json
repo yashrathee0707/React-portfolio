@@ -1,0 +1,53 @@
+{
+    "projects": [
+      {
+        "image": "https://www.intel.com/content/dam/www/central-libraries/us/en/images/2022-11/newsroom-deepfake-feat.jpg",
+        "title": "Improving Deepfake Detection using state of the art Deep Learning Model",
+        "bodyText": "In the contemporary digital landscape, the proliferation of deepfake videos presents a formidable threat to the integrity of digital media, fueled by advancements in artificial intelligence (AI) and deep learning. \n This study proposes a robust deepfake detection system leveraging Long Short-Term Memory (LSTM)-based Recurrent Neural Networks (RNNs). \n Deep learning techniques, particularly Convolutional Neural Networks (CNNs) and RNNs, have demonstrated remarkable prowess across various domains, including image recognition, natural language processing, and video analysis.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/yashrathee0707/Improving-Deepfake-Detection-using-state-of-the-art-Deep-Learning-Model"
+          }
+        ],
+        "tags": ["Python", "Deep Learning", "Machine Learning"]
+      },
+      {
+        "image": "https://media.licdn.com/dms/image/D5612AQHDJt0wyivPRw/article-cover_image-shrink_720_1280/0/1681136284206?e=2147483647&v=beta&t=EqYmJYc--NXWYDFDyIg7S5ge_PO-ebbpYJ1tYIfqZBY",
+        "title": "Object Detection and Segmentation using Segment Anything Model",
+        "bodyText": "This Project focused on exploring the functionalities, capabilities, and potential applications of two cutting-edge tools in the field of computer vision and geospatial analysis: the Segment Anything Model and the Segment Geospatial Library.",
+        "links": [ 
+          {
+            "text": "GitHub",
+            "href": "https://github.com/yashrathee0707/SegmentAnythingModel---Object-Detection-"
+          }
+        ],
+        "tags": ["Python", "Deep Learning", "Machine Learning", "Data Analytics"]
+      },
+      {
+        "image": "https://machinelearningmastery.com/wp-content/uploads/2021/08/3333025004_219a07456f_b.jpg",
+        "title": "Object Detection using Particle Swarm Optimization",
+        "bodyText": "Object detection using Particle Swarm Optimization (PSO) enhances accuracy by optimizing object localization. PSO iteratively adjusts object boundaries based on swarm intelligence, enabling efficient convergence to optimal detection results, improving performance in complex and dynamic environments.",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": "https://github.com/yourusername/microservices-serverless-app"
+          }
+        ],
+        "tags": ["Python", "Deep Learning", "Machine Learning"]
+      },
+      {
+        "image": "https://assets.entrepreneur.com/content/3x2/2000/essential-elements-building-ecommerce-website.jpg",
+        "title": "E-commerce Platform",
+        "bodyText": "Designed intuitive, responsive interface for easy navigation and fast loading. \n Secured transactions with 5 payment options, increasing successful payments. \nEnabled customer accounts for saving preferences, tracking orders, and viewing purchase history",
+        "links": [
+          {
+            "text": "GitHub",
+            "href": ""
+          }
+        ],
+        "tags": ["React", "MongoDB", "NodeJS", "ExpressJS"]
+      }
+    ]
+  }
+  
