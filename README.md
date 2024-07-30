@@ -1,4 +1,4 @@
-# Sample Portfolio
+Portfolio
 
 Welcome to the repository for a dynamic and modern portfolio template, designed with software developers in mind but versatile enough for everyone to use!
 
